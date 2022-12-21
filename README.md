@@ -26,6 +26,7 @@ n=int(input())
 
 
 ### OUTPUT:
+![image](https://user-images.githubusercontent.com/118679883/208890836-6d0d0f58-1ecc-4830-812d-78b97dd77151.png)
 
 
 ### RESULT:
