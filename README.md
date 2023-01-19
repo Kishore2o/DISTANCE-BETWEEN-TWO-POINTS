@@ -14,9 +14,7 @@ get the input values
 ### Step 5: 
 end program
 ### PROGRAM:
-#Program to circulate N values.
-#Developed by: kishore.s
-#RegisterNumber:
+
 ```
 import math 
 l1=[4,2]
@@ -28,7 +26,8 @@ print("{:.2f}".format(d))
 
 
 ### OUTPUT:
-![image](./images/distance.png)
+![distance](https://user-images.githubusercontent.com/118679883/213389142-eebdd101-74c7-4ab7-b680-502b557b98b8.png)
+
 
 
 ### RESULT:
