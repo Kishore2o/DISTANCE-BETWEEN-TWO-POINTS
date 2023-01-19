@@ -17,16 +17,13 @@ end program
 #Program to circulate N values.
 #Developed by: kishore.s
 #RegisterNumber:
-def circulate():
-    circul =l[n:]+l[:n]
-    print("After circulating the values are:",circul)
-l=eval(input())
-n=int(input())
-  
+```
+
+```
 
 
 ### OUTPUT:
-![image](https://user-images.githubusercontent.com/118679883/208890836-6d0d0f58-1ecc-4830-812d-78b97dd77151.png)
+![image](./images/distance.png)
 
 
 ### RESULT:
